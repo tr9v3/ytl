@@ -1,18 +1,19 @@
 {
   "name": "dtfrontend_task1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express Hello World on Render",
   "main": "app.js",
-  "devDependencies": {},
+  "repository": "https://github.com/tr9v3/ytl/edit/main/DTfrontend_task1",
+  "author": "Render Developers",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "start": "node app.js"
   },
-   "dependencies": {
+  "dependencies": {
     "express": "^4.18.2"
   },
   "engines": {
     "node": ">=14"
   }
-  "author": "vaibhav",
-  "license": "ISC"
 }
